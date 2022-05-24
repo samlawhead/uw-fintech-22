@@ -1,1 +1,1 @@
-Long = $1M SQQQ
+Long = $1M SQQQ QQQ
